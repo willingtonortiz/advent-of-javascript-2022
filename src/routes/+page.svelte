@@ -21,7 +21,7 @@
     { isCompleted: false, name: 'Challenge 10', path: '/challenge-10' },
     { isCompleted: false, name: 'Challenge 11', path: '/challenge-11' },
     { isCompleted: true, name: 'Challenge 12', path: '/challenge-12' },
-    { isCompleted: false, name: 'Challenge 13', path: '/challenge-13' },
+    { isCompleted: true, name: 'Challenge 13', path: '/challenge-13' },
     { isCompleted: false, name: 'Challenge 14', path: '/challenge-14' },
     { isCompleted: false, name: 'Challenge 15', path: '/challenge-15' },
     { isCompleted: false, name: 'Challenge 16', path: '/challenge-16' },
